@@ -1,4 +1,6 @@
 # TopLogic - the automated application engine
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FTT198705%2Ftl-engine.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FTT198705%2Ftl-engine?ref=badge_shield)
+
 
 This is the home of the open-source version of [_TopLogic - the automated application engine_](https://github.com/top-logic/tl-engine).
 TopLogic is the only open-source model-based, no-code web application development platform. With TopLogic, you are able to create professional
@@ -53,3 +55,5 @@ TopLogic is dual-licensed. You can use TopLogic either under the terms of the
 [TopLogic License 1.0](LICENSES/LicenseRef-BOS-TopLogic-1.0.md) (BOS-TopLogic-1.0). Using the AGPL open-source version 
 requires that you make available all applications you configure under the terms of the AGPL to all of their users. 
 To obtain the necessary license key for using TopLogic in production mode, please [contact us](https://opensource.top-logic.com/#kontakt).
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FTT198705%2Ftl-engine.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FTT198705%2Ftl-engine?ref=badge_large)
